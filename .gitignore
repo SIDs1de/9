@@ -1,5 +1,4 @@
-/sass
 js/main.js
 prepros.config
 /node_modules
-*.json
+package-lock.json
